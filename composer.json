@@ -1,0 +1,19 @@
+{
+    "name": "mostafizurrahman/donation-progress-bar",
+    "description": "Display a customizable progress bar for donation campaigns.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DonationProgressBar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Md  Mostafizur Rahman",
+            "email": "jahid32@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
